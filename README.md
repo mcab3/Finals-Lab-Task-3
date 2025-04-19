@@ -40,5 +40,25 @@ These are the necessary steps for the the main task:
 
 ## Query Statements:
 
+- **Step 1:** Creating a Table.  
+   <img src="Images/productsdm_table.png" width="500"/>
+- **Step 2:** Adding Constraints.  
+   <img src="Images/checkpricedm_table.png" width="500"/>
+- **Step 3:** Inserting the values.  
+  <img src="Images/insertproductsdm_table.png" width="500"/>
+- **Step 4:** Modifying the product name.  
+  <img src="Images/modifydm_table.png" width="500"/>
+
+## Table Structure:
+**1. Product Table:** (From Step 1 and 2)  
+  <img src="Images/productsdm_tstructure.png" width="500"/>  
+**2. With Inserted Values and Modified Table:** (From Step 3 and 4)  
+  <img src="Images/insertproducts1_tstructure.png" width="500"/>
+
+## Entity Relationship Schema:
+* Attached image of the schema below:
+<img src="Images/labtask3_EERD.png" width="500"/>
+
+  
 
 
