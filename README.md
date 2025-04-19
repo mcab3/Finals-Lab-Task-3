@@ -49,7 +49,7 @@ These are the necessary steps for the the main task:
 - **Step 4:** Modifying the product name.  
   <img src="Images/modifydm_table.png" width="500"/>
 
-## Table Structure:
+## Table Structures:
 **1. Product Table:** (From Step 1 and 2)  
   <img src="Images/productsdm_tstructure.png" width="500"/>  
 **2. With Inserted Values and Modified Table:** (From Step 3 and 4)  
